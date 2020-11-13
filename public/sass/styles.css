@@ -362,8 +362,9 @@ a.button:hover {
   padding: 0.25rem 1rem;
   font-size: 14px;
   font-family: "Itim";
-  background: white;
+  background: #7a82ad;
   background-size: cover;
+  background-position: center;
   height: 100px;
   cursor: pointer;
 }
@@ -372,6 +373,7 @@ a.button:hover {
   background: #061220;
   font-weight: bold;
   background-size: cover;
+  background-position: center;
   -webkit-box-shadow: 2px 4px 7px black;
           box-shadow: 2px 4px 7px black;
   font-size: 15px;
